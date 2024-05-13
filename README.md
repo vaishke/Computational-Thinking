@@ -26,3 +26,8 @@
 > [Collatz Sequence](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/Collatz_Seq.py)
 
 > FizzBuzz [Approach 1](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/FizzBuzz_approach1.py)    [Approach 2](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/FizzBuzz_approach2.py)    [Approach 3](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/FizzBuzz_approach3.py)    [Approach 4](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/Fuzzbuzz_approach4.py)     [Approach 5](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/FizzBuzz_approach5.py)
+
+
+## Project Euler
+
+> 
