@@ -2,7 +2,7 @@
 
 <p>The repository contains programs of problems related to computational thinking, which are solved in Python.</p>
 
-## WE Questions
+## Practice Questions
 > [Separating Digits](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/Separating_digits.py)
 
 > [Sum of Strong Numbers](https://github.com/vaishke/Computational-Thinking/blob/main/WE_Classes/sum_of_strong_num.py)
